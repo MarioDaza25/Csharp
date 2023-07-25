@@ -1,0 +1,30 @@
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.exe
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.deps.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\refint\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Directorio\DirectorioTelefonico\obj\Debug\net7.0\ref\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\refint\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.exe
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.deps.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\bin\Debug\net7.0\DirectorioTelefonico.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\DirectorioTelefonico.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\DirectorioTelefonico\obj\Debug\net7.0\ref\DirectorioTelefonico.dll
