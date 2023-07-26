@@ -1,0 +1,15 @@
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\bin\Debug\net7.0\RegistroUsuarios.exe
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\bin\Debug\net7.0\RegistroUsuarios.deps.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\bin\Debug\net7.0\RegistroUsuarios.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\bin\Debug\net7.0\RegistroUsuarios.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\bin\Debug\net7.0\RegistroUsuarios.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\refint\RegistroUsuarios.dll
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.pdb
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\RegistroUsuarios.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\PROGRAMACION\C#\Talleres en Clase\RegistroUsuarios\obj\Debug\net7.0\ref\RegistroUsuarios.dll

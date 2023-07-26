@@ -9,13 +9,13 @@ class LibretaTelefonica
 {   
     //------------PROPIEDADES DE LA CLASE -----------
     public string nombrePersona { get; set; }
-    public string telefono { get; set; }
+    public string edad { get; set; }
     public bool esImportante { get; set; }
     
     public LibretaTelefonica(string nombre, string numeroTelefono)
     {
         nombrePersona = nombre;
-        telefono = numeroTelefono;
+        edad = numeroTelefono;
         esImportante = false;
     }
 }
